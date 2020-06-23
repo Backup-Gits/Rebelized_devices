@@ -4,6 +4,7 @@ List of Rebelized Devices
 |         Device Name           | Device Codename  |        Device Maintainer                      |
 |-------------------------------|------------------|-----------------------------------------------|
 | Asus Zenfone Max Pro M1       | X00T             | [**Karthik**](https://t.me/le_heisenberg)     |
+| Realme X                      | RMX1901          | [**Satham Hussain**](https://t.me/Sathamspot) |
 | Realme XT                     | RMX1921          | [**Advaith Bhat**](https://t.me/advaithbhat)  |
 | Xiaomi MI A2 Lite             | daisy            | [**Togo 77**](https://t.me/TogoFire)          |
 | Xiaomi Redmi Note 4/4X        | mido             | [**Smokey**](https://t.me/smokey_18)          |
